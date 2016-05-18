@@ -3,8 +3,13 @@ Auteur: Etienne CHARRIER*/
 
 #include <stdio.h>
 
+<<<<<<< HEAD
+//Modif dans dev_local2
+//Je rajoute des commentaires inutiles
+=======
 
 //Modif dans dev_local
+>>>>>>> e763ac3a58f7417e568c7568d8933e314ec3e9a8
 int choix(int a) {
 
   if (a>=1 && a<=10) {
