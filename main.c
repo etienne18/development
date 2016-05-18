@@ -18,7 +18,7 @@ int choix(int a) {
 }
 
 int main() {
-
+  //variable c récupère l'entier
   int c;
   printf("Veuillez entrer un entier:");
   scanf("%d", &c);
