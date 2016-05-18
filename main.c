@@ -3,6 +3,8 @@ Auteur: Etienne CHARRIER*/
 
 #include <stdio.h>
 
+
+//Modif dans dev_local
 int choix(int a) {
 
   if (a>=1 && a<=10) {
