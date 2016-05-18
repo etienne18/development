@@ -14,7 +14,7 @@ int choix(int a) {
 
 //Retourne 1,2 ou 3 selon le choix
   if (a>=1 && a<=10) {
-    return 1;
+    return 1;//retourne 1
   }
   else if (a>=11 && a<=20) {
     return 2;
