@@ -28,7 +28,7 @@ int main() {
   int c;
   printf("Veuillez entrer un entier:");
   scanf("%d", &c);
-  printf("La fonction renvoie : %d.\n", choix(c));
+  printf("La fonction renvoie : %d.\n", choix(c));//Affichage résultat
 
   return 0;
 }
