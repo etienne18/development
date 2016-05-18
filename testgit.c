@@ -5,7 +5,7 @@ Auteur: Etienne CHARRIER */
 
 int main() {
 
-  int somme;
+  int somme;//valeur qu'on retourne
   int j;
   int k;
   somme=0;
