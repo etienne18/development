@@ -7,7 +7,7 @@ int main() {
 
   int somme;//valeur qu'on retourne
   int j;
-  int k;
+  int k;//variable qui récupère le nombre entré par l'utilisateur
   somme=0;
 
   printf("Veuillez rentrer un nombre:");
